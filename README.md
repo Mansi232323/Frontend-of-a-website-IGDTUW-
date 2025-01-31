@@ -1,1 +1,1 @@
-# Frontend of a website IGDTUW
+ # IGDTUW-FRONTEND
